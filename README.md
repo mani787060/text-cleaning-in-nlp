@@ -135,7 +135,7 @@ The notebook follows this preprocessing workflow:
 
 ## Key Concepts
 
-* Natural Language Processing
+* Natural Language Processing (NLP)
 * Text Preprocessing
 * Text Cleaning
 * HTML Tag Removal
